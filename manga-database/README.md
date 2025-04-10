@@ -34,6 +34,8 @@ This project aims to design and implement a comprehensive database for a manga r
    - **READER_MANGA**: Tracks which manga a reader has read.
    - **TRANSLATOR_MANGA**: Links translators to manga titles.
 
+![manga_siteRD_page-0001](https://github.com/user-attachments/assets/f47333ee-e40b-4406-9282-654cd86c2bd1)
+
 ---
 
 ## Key Features
